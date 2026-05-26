@@ -1,0 +1,90 @@
+============================================
+ StructLab Explorer - Data Structure Simulator
+ Binary Search Tree CLI
+============================================
+
+Menu Utama
+1. Tambah data ke pohon
+2. Cari data
+3. Tampilkan traversal
+4. Tampilkan ringkasan pohon
+5. Reset pohon
+0. Keluar
+Pilih menu: 1
+Masukkan nilai integer yang akan ditambahkan: 20
+Data 20 berhasil ditambahkan ke pohon.
+--------------------------------------------
+
+Menu Utama
+1. Tambah data ke pohon
+2. Cari data
+3. Tampilkan traversal
+4. Tampilkan ringkasan pohon
+5. Reset pohon
+0. Keluar
+Pilih menu: 1
+Masukkan nilai integer yang akan ditambahkan: 2
+Data 2 berhasil ditambahkan ke pohon.
+--------------------------------------------
+
+Menu Utama
+1. Tambah data ke pohon
+2. Cari data
+3. Tampilkan traversal
+4. Tampilkan ringkasan pohon
+5. Reset pohon
+0. Keluar
+Pilih menu: 1
+Masukkan nilai integer yang akan ditambahkan: 25
+Data 25 berhasil ditambahkan ke pohon.
+--------------------------------------------
+
+Menu Utama
+1. Tambah data ke pohon
+2. Cari data
+3. Tampilkan traversal
+4. Tampilkan ringkasan pohon
+5. Reset pohon
+0. Keluar
+Pilih menu: 3
+
+Pilih traversal
+1. Pre Order
+2. In Order
+3. Post Order
+0. Kembali ke menu utama
+Pilih traversal: 2
+In Order : 2 -> 20 -> 25
+
+Pilih traversal
+1. Pre Order
+2. In Order
+3. Post Order
+0. Kembali ke menu utama
+Pilih traversal: 0
+--------------------------------------------
+
+Menu Utama
+1. Tambah data ke pohon
+2. Cari data
+3. Tampilkan traversal
+4. Tampilkan ringkasan pohon
+5. Reset pohon
+0. Keluar
+Pilih menu: 4
+Ringkasan Pohon
+Akar: 20
+Jumlah node: 3
+Tinggi pohon: 2
+--------------------------------------------
+
+Menu Utama
+1. Tambah data ke pohon
+2. Cari data
+3. Tampilkan traversal
+4. Tampilkan ringkasan pohon
+5. Reset pohon
+0. Keluar
+Pilih menu: 0
+
+Terima kasih telah menggunakan StructLab Explorer.
